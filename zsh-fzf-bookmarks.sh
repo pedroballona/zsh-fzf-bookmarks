@@ -7,7 +7,7 @@ function bedit {
 }
 
 function go {
-  cd $(cat ~/.bookmarks | fzf --preview 'tree -L 1 {}')
+  cd $(cat ~/.bookmarks | fzf)
 }
 
 zle -N go

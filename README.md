@@ -4,7 +4,6 @@ A simple script to create bookmarks on zsh using fzf
 ## Requirements
 
 - fzf
-- tree
 
 ## Installation
 
