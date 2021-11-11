@@ -17,12 +17,12 @@ A simple script to create bookmarks on zsh using fzf
 
 ```bash
 # adds the current directory to the ~/.bookmarks file
-$ madd
+$ badd
 ```
 
 ```bash
 # opens the current bookmarks file on vim
-$ medit
+$ bedit
 ```
 
 ```bash
